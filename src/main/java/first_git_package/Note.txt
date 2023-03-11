@@ -6,4 +6,7 @@
 
 3.Create a new Coomit for the First time
    *git init
+   *git add .
    *
+
+NOTE: git status     ->  This is our friend. This can be used anytime to see the progress
