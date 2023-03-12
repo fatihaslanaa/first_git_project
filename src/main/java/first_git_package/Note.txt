@@ -12,4 +12,11 @@
     *****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
 
 NOTE: git status This is our friend. This can be used anytime to see the progress
-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
+
+***********DAY2***************
+Branch
+git branch -a -> show me all branch
+
+
+
+
